@@ -103,7 +103,7 @@ EOL
 
 ###############################################
 
-sudo mv appsmith /etc/nginx/sites-available/
+sudo mv appsmith_nginx /etc/nginx/sites-available/
 
 sudo ln -s /etc/nginx/sites-available/appsmith_nginx /etc/nginx/sites-enabled
 
